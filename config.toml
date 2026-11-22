@@ -15,7 +15,7 @@ ogImage       = "/images/04_vascularized_heart.png"
 siteName      = "3D Print Hair"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">HAIR</span>'
 tagline       = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
-description   = "3D Print Hair covers additive manufacturing in the hair and beauty sector — from custom hair clips and salon tools to research-grade hair follicle bioprinting models."
+description   = "3D Print Hair is a PrintWire network site about 3D printed hair. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "3D printed hair accessories, hair clip 3D print, salon tool AM, hair follicle bioprinting, trichology model, custom hair tools"
 logoEmoji     = "💇"
 contactEmail  = "maxdavisgroup@gmail.com"
